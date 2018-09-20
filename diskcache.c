@@ -24,7 +24,7 @@ THE SOFTWARE.
 
 #ifndef NO_DISK_CACHE
 
-#include "md5import.h"
+#include "md5.h"
 
 int maxDiskEntries = 32;
 
